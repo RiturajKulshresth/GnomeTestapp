@@ -1,0 +1,6 @@
+data/org.my.testpython.desktop.in
+data/org.my.testpython.metainfo.xml.in
+data/org.my.testpython.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
